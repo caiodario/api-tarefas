@@ -1,7 +1,8 @@
 const router = require("express").Router();
 const req = require("express/lib/request");
+const status = require("express/lib/response");
 
-router.post("/status", async (req, res) => {
+router.get("/status", async (req, res) => {
   try {
     res.status(204).send();
   } catch (error) {
