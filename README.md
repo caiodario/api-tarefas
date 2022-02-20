@@ -24,7 +24,7 @@ API REST para Controle de Tarefas que tem como regra de negócio as informaçõe
 
 <h2>Como utilizar</h2>
 -> # npm install bcrypt dotenv express jsonwebtoken mongoose <br>
--> # Crie um arquivo .dev com as variáveis DB_USER, DB_PASSWORD, SECRET <br>
+-> # Crie um arquivo .env com as variáveis DB_USER, DB_PASSWORD, SECRET <br>
 -> # Caso queria testar a conexão com seu próprio DB, troque o parâmetro de conexão do mongoose no index.js
 <h2>Colaboradores</h2>
 <a href="https://linkedin.com/caiodario">🐱‍👤 Caio Dario</a>
