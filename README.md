@@ -1,7 +1,7 @@
 ﻿<h1 align="center">API - Controle de Tarefas 📝</h1
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=STATUS&message=EM ANDAMENTO&color=GREEN&?style=for-the-badge&logo=appveyor"/>
+<img src="https://img.shields.io/static/v1?label=STATUS&message=EM DESENVOLVIMENTO&color=GREEN&?style=for-the-badge&logo=appveyor"/>
 </p>
 
 <h2>Descrição do projeto</h2>
